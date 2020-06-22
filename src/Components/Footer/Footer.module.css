@@ -1,0 +1,9 @@
+    .container {
+        width: 100%;
+        display: flex;
+        margin-top: 50px;   
+    }
+    p {
+        text-align: center;
+    }
+
